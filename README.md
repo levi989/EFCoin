@@ -1,0 +1,2 @@
+# EFCoin
+Silence Hash
